@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50DCB5A9-F1F9-4EF4-99A4-A5FC2688F199}|WebApplication1\\WebApplication1.csproj|y:\\groups\\group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myproject\\webapplication1\\controllers\\housecommitteecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DCB5A9-F1F9-4EF4-99A4-A5FC2688F199}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\housecommitteecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DCB5A9-F1F9-4EF4-99A4-A5FC2688F199}|WebApplication1\\WebApplication1.csproj|y:\\groups\\group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myproject\\webapplication1\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DCB5A9-F1F9-4EF4-99A4-A5FC2688F199}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DCB5A9-F1F9-4EF4-99A4-A5FC2688F199}|WebApplication1\\WebApplication1.csproj|y:\\groups\\group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myproject\\webapplication1\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DCB5A9-F1F9-4EF4-99A4-A5FC2688F199}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DCB5A9-F1F9-4EF4-99A4-A5FC2688F199}|WebApplication1\\WebApplication1.csproj|y:\\groups\\group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myproject\\webapplication1\\controllers\\serviceprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DCB5A9-F1F9-4EF4-99A4-A5FC2688F199}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\serviceprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DCB5A9-F1F9-4EF4-99A4-A5FC2688F199}|WebApplication1\\WebApplication1.csproj|y:\\groups\\group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myproject\\webapplication1\\controllers\\buildingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DCB5A9-F1F9-4EF4-99A4-A5FC2688F199}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\buildingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DCB5A9-F1F9-4EF4-99A4-A5FC2688F199}|WebApplication1\\WebApplication1.csproj|y:\\groups\\group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myproject\\webapplication1\\servies\\serviceproviderservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DCB5A9-F1F9-4EF4-99A4-A5FC2688F199}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\servies\\serviceproviderservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DCB5A9-F1F9-4EF4-99A4-A5FC2688F199}|WebApplication1\\WebApplication1.csproj|y:\\groups\\group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myproject\\webapplication1\\servies\\messageservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DCB5A9-F1F9-4EF4-99A4-A5FC2688F199}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\servies\\messageservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DCB5A9-F1F9-4EF4-99A4-A5FC2688F199}|WebApplication1\\WebApplication1.csproj|y:\\groups\\group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myproject\\webapplication1\\classes\\serviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DCB5A9-F1F9-4EF4-99A4-A5FC2688F199}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\classes\\serviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DCB5A9-F1F9-4EF4-99A4-A5FC2688F199}|WebApplication1\\WebApplication1.csproj|y:\\groups\\group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myproject\\webapplication1\\servies\\buildingservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DCB5A9-F1F9-4EF4-99A4-A5FC2688F199}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\servies\\buildingservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DCB5A9-F1F9-4EF4-99A4-A5FC2688F199}|WebApplication1\\WebApplication1.csproj|y:\\groups\\group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myproject\\webapplication1\\servies\\housecommitteeservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DCB5A9-F1F9-4EF4-99A4-A5FC2688F199}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\servies\\housecommitteeservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TenantController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\WebApplication1\\Controllers\\TenantController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\TenantController.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\WebApplication1\\Controllers\\TenantController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\TenantController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:02:05.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\WebApplication1\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\MessageController.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\WebApplication1\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:02:03.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HouseCommitteeController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\WebApplication1\\Controllers\\HouseCommitteeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HouseCommitteeController.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\WebApplication1\\Controllers\\HouseCommitteeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HouseCommitteeController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:02:02.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuildingController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\WebApplication1\\Controllers\\BuildingController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\BuildingController.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\WebApplication1\\Controllers\\BuildingController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\BuildingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:02:01.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HouseCommitteeServies.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\WebApplication1\\servies\\HouseCommitteeServies.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\servies\\HouseCommitteeServies.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\WebApplication1\\servies\\HouseCommitteeServies.cs",
+              "RelativeToolTip": "WebApplication1\\servies\\HouseCommitteeServies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:14:14.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageServies.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\WebApplication1\\servies\\MessageServies.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\servies\\MessageServies.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\WebApplication1\\servies\\MessageServies.cs",
+              "RelativeToolTip": "WebApplication1\\servies\\MessageServies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:13:17.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceProviderServies.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\WebApplication1\\servies\\ServiceProviderServies.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\servies\\ServiceProviderServies.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\WebApplication1\\servies\\ServiceProviderServies.cs",
+              "RelativeToolTip": "WebApplication1\\servies\\ServiceProviderServies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:04:26.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceProviderController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\WebApplication1\\Controllers\\ServiceProviderController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ServiceProviderController.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\WebApplication1\\Controllers\\ServiceProviderController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ServiceProviderController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:04:25.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BuildingServies.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\WebApplication1\\servies\\BuildingServies.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\servies\\BuildingServies.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\WebApplication1\\servies\\BuildingServies.cs",
+              "RelativeToolTip": "WebApplication1\\servies\\BuildingServies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:14:50.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceProvider.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\WebApplication1\\classes\\ServiceProvider.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\classes\\ServiceProvider.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D6\u05D9\u05DC\u05D1\u05E8 \u05DC\u05D0\u05D4\\net core\\myProject\\WebApplication1\\classes\\ServiceProvider.cs",
+              "RelativeToolTip": "WebApplication1\\classes\\ServiceProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:04:21.602Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
